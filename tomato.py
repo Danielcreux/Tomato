@@ -7,12 +7,12 @@ from datetime import datetime, timedelta
 
 # Path for hourly data file
 data_paths = {
-    "hourly": "/var/www/html/jocarsa-tomato/carga_hourly.txt",
+    "hourly": "/var/www/html/Tomato/carga_hourly.txt",
 }
 
 # Path for plot folder
 plot_folders = {
-    "hourly": "/var/www/html/jocarsa-tomato/img/hourly",
+    "hourly": "/var/www/html/Tomato/img/hourly",
 }
 
 # Create the plot folder if it doesn't exist
